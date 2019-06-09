@@ -1,2 +1,0 @@
-# noiseacademysoundlab
-Created with CodeSandbox
